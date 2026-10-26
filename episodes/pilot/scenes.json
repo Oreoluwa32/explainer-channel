@@ -1,0 +1,35 @@
+{
+  "title": "How Rome Printed Itself Broke",
+  "voice": {
+    "engine": "kittentts",
+    "voice": "expr-voice-2-m",
+    "speed": 1.0
+  },
+  "scenes": [
+    {
+      "id": "hook",
+      "text": "In the year 300, a Roman soldier could be paid a pile of coins, and still go hungry. How did the richest empire on Earth go broke?"
+    },
+    {
+      "id": "augustus",
+      "text": "Under Emperor Augustus, the silver denarius was almost pure silver. But empires are expensive. Legions. Roads. Free bread for Rome."
+    },
+    {
+      "id": "furnace",
+      "text": "When money ran short, emperors found a shortcut. Melt the coins, mix in cheaper metal, and mint more of them."
+    },
+    {
+      "id": "debasement",
+      "text": "Nero trimmed a little. Later emperors trimmed a lot. By the 270s, the silver coin was mostly bronze. Under five percent silver."
+    },
+    {
+      "id": "edict",
+      "text": "Prices soared. In 301, Emperor Diocletian tried to fix prices by law, with death as the penalty. It failed."
+    },
+    {
+      "id": "outro",
+      "text": "Rome didn't just run out of money. It made too much of it. Sound familiar?",
+      "extraSeconds": 3
+    }
+  ]
+}

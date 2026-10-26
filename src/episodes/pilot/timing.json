@@ -1,0 +1,11 @@
+{
+  "fps": 30,
+  "scenes": [
+    {"id": "hook", "seconds": 8, "audio": null},
+    {"id": "augustus", "seconds": 9, "audio": null},
+    {"id": "furnace", "seconds": 8, "audio": null},
+    {"id": "debasement", "seconds": 9, "audio": null},
+    {"id": "edict", "seconds": 8, "audio": null},
+    {"id": "outro", "seconds": 6, "audio": null, "extraSeconds": 3}
+  ]
+}
